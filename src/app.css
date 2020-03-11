@@ -1,0 +1,24 @@
+
+
+h1{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th,td{
+    padding: 10px;
+}
+
+form{
+    align-items: center;
+    justify-content: center;
+}
